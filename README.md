@@ -1,24 +1,15 @@
-# README
+# debug_app
+DMMの開発スキルアップ演習３
+この章では、railsアプリケーションを開発しているときに発生するエラーの解決法を学びます。
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Dependency
+Ruby on Rails
 
-Things you may want to cover:
+# Usage
+・「pry-byebug」とは
+・「pry-byebug」のインストール
+・実際に「pry-byebug」を使ってみる
+・「pry-byebug」のコマンド確認
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# References
+DMM WEBCAMP カリキュラム　https://web-camp.online/lesson/curriculums/191/contents/837
